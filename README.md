@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px">, I'm Pragya Bharti</h1>
+<h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="50px">, I'm Pragya Bharti</h1>
 <h3 align="center">A passionate Software developer</h3>
 
 <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://www.canva.com/design/DAFdtFn6XaU/watch)"/>
