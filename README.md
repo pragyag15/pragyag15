@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/PragyaB75561937" target="blank"><img src="https://img.shields.io/twitter/follow/PragyaB75561937?logo=twitter&style=for-the-badge" alt="PragyaB75561937" /></a> </p>
 
-- 🔭 I’m currently working on **Dowell Research India**
+- 🔭 I’m currently working on **Brandsxmedia.com**
 
 - 🌱 I’m currently learning **Software Development**
 
