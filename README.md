@@ -1,5 +1,5 @@
-<h1 align="center">Hi<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="50px">,I'm Pragya Bharti</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Hi<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"width="50px">,I'm Pragya Bharti</h1>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://www.canva.com/design/DAFdtFn6XaU/watch)"/>
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/PragyaB75561937" target="blank"><img src="https://img.shields.io/twitter/follow/PragyaB75561937?logo=twitter&style=for-the-badge" alt="PragyaB75561937" /></a> </p>
 
-- 🔭 I’m currently working on **Brandsxmedia.com**
+- 🔭 I’m currently working in **Zomato**
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Data Analyst**
 
-- 👯 I’m looking to collaborate on **Blockchain**
+- 👯 I’m looking to collaborate on **Analysis and Visualization**
 
 - 📫 How to reach me **pragyabharti1502@gmail.com**
 
